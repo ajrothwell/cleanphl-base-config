@@ -27,10 +27,10 @@
       // }
     },
     map: {
-      center: [-75.163471, 39.953338],
+      center: [-75.128290, 40.007890],
       minZoom: 11,
       maxZoom: 22,
-      zoom: 12,
+      zoom: 11,
       basemaps: {
         pwd: {
           url: '//tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityBasemap/MapServer',
